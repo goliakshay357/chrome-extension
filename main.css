@@ -1,0 +1,14 @@
+#supersearch_main {
+  position: fixed;
+  top: 50vh;
+  margin-left: 40vw;
+}
+
+.showSuperSearch {
+    display: block;
+    background-color: black;
+}
+
+.exitSuperSearch {
+    display: none;
+}
